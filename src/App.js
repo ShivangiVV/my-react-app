@@ -58,7 +58,7 @@ function App() {
       <div className='cotainer mx-5'>
          {/* <TextForm heading="Enter your text here" mode={mode} showAlert={showAlert}/> */}
         <About/> 
-
+<h1>gn</h1>
       </div>
     </>
   );
